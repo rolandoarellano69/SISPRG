@@ -100,5 +100,7 @@ Driver Pololu A4988  ideal para impresoras 3D (RepRap, Prusa, Mendel). Maneja mo
 ### Ejemplo de implementacion
 
 ![image](https://user-images.githubusercontent.com/80436392/191360531-5ed79a79-77db-44d1-917e-46f6808f9750.png)
+### GIF
+https://c.tenor.com/K_p22efpBGsAAAAd/adachi-true.gif
 
 
